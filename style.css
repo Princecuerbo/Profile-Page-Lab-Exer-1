@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'poppins', sans-serif;
+}
+
+.background{
+	background:#fff;
+}
+.profile-box{
+	width: 50%;
+	background: #fff;
+	border: 1px solid #333;
+	text-align: center;
+	padding: 30px 50px;
+	color: #black;
+	position: relative;
+	border-radius: 50px;
+	margin:100px auto;
+
+
+}
+.profile-pic{
+	margin-bottom: 20px;
+	height: 150px;
+	width: 150px;
+	border-radius: 50px, 80%;
+	background: #fff;
+	padding: 6px;
+
+
+}
